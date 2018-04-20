@@ -70,3 +70,4 @@ sa.bbc.co.uk
 www.bbc.co.uk
 crunchyroll.com
 ifconfig.co
+netflix.com
